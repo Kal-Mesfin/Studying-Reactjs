@@ -12,6 +12,19 @@
 .card .card-image {
   max-width: 60%;
   height: auto;
-  
   margin-bottom: 18px;
+}
+
+.button {
+ background-color: rgba(247, 177, 47, 0.731);
+ color: white;
+ border-radius: 5px;
+ cursor: pointer;
+ padding: 10px 20px;
+ border: none;
+}
+
+.stoked {
+  border: 1px solid rgb(62, 61, 61);
+  background-color: rgb(237, 196, 120);
 }
