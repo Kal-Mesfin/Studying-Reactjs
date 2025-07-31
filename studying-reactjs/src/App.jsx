@@ -8,6 +8,11 @@ import List from "./List";
 import Counter from "./Counter";
 import Actbu from "./Actbu";
 import Colorpicker from "./colorpicker";
+import Todolist from "./Todolsit";
+import Inc from "./Inc";
+import Resize from "./Resize";
+import Dclock from "./Dclock";
+import Stopwatch from "./Stopwatch";
 function App() {
 
   return (
@@ -23,6 +28,11 @@ function App() {
      <Counter></Counter>
      <List />
      <Colorpicker/>
+     <Todolist/>
+     <Inc/>
+     <Resize/>
+     <Dclock/>
+     <Stopwatch/>
      <Footer/>
     </>
   );
